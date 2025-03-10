@@ -1,3 +1,3 @@
 module github.com/newacorn/onemod
 
-go 1.21.1
+go 1.24.0
